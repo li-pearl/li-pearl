@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+-🔭 I’m currently working on ...
+  - Programming for my FRC team, @FRC2539
+  - Science fair project, [NEMO](https://github.com/li-pearl/nemo)
+  - ML fruit fly agression tracking
+
 <!--
 **li-pearl/li-pearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
