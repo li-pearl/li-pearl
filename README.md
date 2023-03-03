@@ -6,7 +6,7 @@
   - ML fruit fly agression tracking
 
 🌱 Interests:
-  - Assitive Technology
+  - Assistive Technology
   - Flight/Drones
   - Robotics
 
