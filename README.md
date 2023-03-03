@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Anshi 👋
 
--🔭 I’m currently working on ...
+🔭 Current projects:
   - Programming for my FRC team, @FRC2539
   - Science fair project, [NEMO](https://github.com/li-pearl/nemo)
   - ML fruit fly agression tracking
+
+🌱 Interests:
+  - Assitive Technology
+  - Flight/Drones
+  - Robotics
 
 <!--
 **li-pearl/li-pearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
