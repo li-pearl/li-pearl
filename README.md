@@ -2,7 +2,7 @@
 
 🔭 Current projects:
   - Programming for my FRC team, @FRC2539
-  - Science fair project, [NEMO](https://github.com/li-pearl/nemo) (Competing next at ISEF May 13-19)
+  - Science fair project, [NEMO](https://github.com/li-pearl/nemo)
   - ML fruit fly agression tracking
 
 🌱 Interests:
