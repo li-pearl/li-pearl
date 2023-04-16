@@ -7,7 +7,7 @@
 
 🌱 Interests:
   - Assistive Technology
-  - Flight/Drones
+  - Aviation - Flight/Drones
   - Robotics
 
 <!--
