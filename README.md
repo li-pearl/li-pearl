@@ -7,8 +7,9 @@
 
 🌱 Interests:
   - Assistive Technology
-  - Aviation - Flight/Drones
+  - Maker Movement
   - Robotics
+  - Aviation
 
 <!--
 **li-pearl/li-pearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
