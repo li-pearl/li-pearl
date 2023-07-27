@@ -1,9 +1,12 @@
-### Hi there, I'm Anshi 👋
+# Hi there, I'm Anshi 👋
+## I'm a high school junior who likes building stuff
 
 🔭 Current projects:
   - Programming for my FRC team, @FRC2539
+  - Intern at Geronimo Lab at PSU
   - ISEF project, [NEMO](https://github.com/li-pearl/nemo)
-  - ML fruit fly agression tracking
+  - Updating BraillEZ and RemindMEd
+  - ML fruit fly aggression tracking (On hold for now)
 
 🌱 Interests:
   - Assistive Technology
