@@ -3,7 +3,6 @@
 
 🔭 Current projects:
   - Programming for my FRC team, @FRC2539
-  - Intern at Geronimo Lab at PSU
   - Science fair project, DORY
   - Writing a paper on my ISEF project, [NEMO](https://github.com/li-pearl/nemo)
   - Updating BraillEZ and RemindMEd
