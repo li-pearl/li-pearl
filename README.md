@@ -4,9 +4,9 @@
 🔭 Current projects:
   - Programming for my FRC team, @FRC2539
   - Intern at Geronimo Lab at PSU
-  - ISEF project, [NEMO](https://github.com/li-pearl/nemo)
+  - Science fair project, DORY
+  - Writing a paper on my ISEF project, [NEMO](https://github.com/li-pearl/nemo)
   - Updating BraillEZ and RemindMEd
-  - ML fruit fly aggression tracking (On hold for now)
 
 🌱 Interests:
   - Assistive Technology
