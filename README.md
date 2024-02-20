@@ -3,7 +3,7 @@
 
 🔭 Current projects:
   - Programming for my FRC team, @FRC2539
-  - Science fair project, DORY
+  - Science fair project, [DORY](https://github.com/li-pearl/dory)
   - Writing a paper on my ISEF project, [NEMO](https://github.com/li-pearl/nemo)
   - Updating BraillEZ and RemindMEd
 
