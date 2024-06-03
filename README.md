@@ -3,9 +3,12 @@
 
 🔭 Current projects:
   - Programming for my FRC team, @FRC2539
-  - Science fair project, [DORY](https://github.com/li-pearl/dory)
+  - RC Blackbird Model
+  - Creating a vizualizer for MERFISH data  
+  - Continuation of science fair project, [DORY](https://github.com/li-pearl/dory)
   - Writing a paper on my ISEF project, [NEMO](https://github.com/li-pearl/nemo)
   - Updating BraillEZ and RemindMEd
+
 
 🌱 Interests:
   - Assistive Technology
