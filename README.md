@@ -11,11 +11,11 @@
 
 
 🌱 Interests:
-  - Assistive Technology
-  - Maker Movement
   - Robotics
   - Aviation
-
+  - Assistive Technology
+  - Maker Movement
+  
 <!--
 **li-pearl/li-pearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
