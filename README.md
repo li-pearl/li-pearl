@@ -1,5 +1,5 @@
 # Hi there, I'm Anshi 👋
-## I'm a high school junior who likes building stuff
+## I'm a high school senior who likes building stuff
 
 🔭 Current projects:
   - Programming for my FRC team, @FRC2539
