@@ -2,6 +2,7 @@
 ## I'm a high school senior who likes building stuff
 
 🔭 Current projects:
+  - PGSS 2024 Project: Proofing AI models from deception
   - Programming for my FRC team, @FRC2539
   - RC Blackbird Model
   - Creating a vizualizer for MERFISH data  
