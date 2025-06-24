@@ -1,5 +1,5 @@
 # Hi there, I'm Anshi 👋
-## I'm a high school senior who likes building stuff
+## I'm a college student who likes building stuff
 
 🔭 Current projects:
   - PGSS 2024 Project: Proofing AI models from deception
