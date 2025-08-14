@@ -1,5 +1,5 @@
 # Hi there, I'm Anshi 👋
-## I'm a college student who likes building stuff
+## I'm a Caltech freshman who likes building stuff
 
 🔭 Current projects:
   - Caltech FSRI project in computational solar physics
