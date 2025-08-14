@@ -1,5 +1,5 @@
 # Hi there, I'm Anshi 👋
-## I'm a Caltech freshman who likes building stuff
+## I'm a Caltech freshman who likes building stuff, [STEREO SEP Model](https://github.com/li-pearl/stereo-sep-model)
 
 🔭 Current projects:
   - Caltech FSRI project in computational solar physics
