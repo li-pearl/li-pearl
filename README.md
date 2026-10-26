@@ -1,4 +1,4 @@
-# Hi there, I'm Anshi 👋
+# Hi there, I'm Anshi ✈️
 ## I'm a Caltech MechE/EE s'more who likes building stuff that flies
 
 🔭 Current projects:
