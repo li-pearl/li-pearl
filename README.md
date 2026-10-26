@@ -1,20 +1,23 @@
 # Hi there, I'm Anshi 👋
-## I'm a Caltech freshman who likes building stuff
+## I'm a Caltech Mech E (or EE idk) S'more who likes building smart stuff that flies
 
 🔭 Current projects:
+  - Reducing blade-wake interaction noise from upstream propeller shroud geometries on M4 Phoenix (Caltech SURF Summer 2026, Gharib Research Group, CAST)
+  - RC "Swoose Goose"
+  - RC Blackbird Model (Blackerbird)
+
+Past Projects:
   - Caltech FSRI project in computational solar physics, [STEREO SEP Model](https://github.com/li-pearl/stereo-sep-model)
-  - RC Blackbird Model
-  - Continuation of science fair project, [DORY](https://github.com/li-pearl/dory)
-  - Writing a paper on my ISEF project, [NEMO](https://github.com/li-pearl/nemo)
+  - 2023-24 Science Fair Project, [DORY](https://github.com/li-pearl/dory)
+  - 2022-23 ISEF project, [NEMO](https://github.com/li-pearl/nemo)
   - Updating BraillEZ and RemindMEd
 
-
 🌱 Interests:
-  - Robotics
+  - Maker Culture and Mechantronics
   - Aviation
+  - Robotics
   - Assistive Technology
-  - Maker Movement
-  
+
 <!--
 **li-pearl/li-pearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
