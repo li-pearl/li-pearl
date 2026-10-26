@@ -8,7 +8,7 @@
 
 Past Projects:
   - Caltech FSRI project in computational solar physics, [STEREO SEP Model](https://github.com/li-pearl/stereo-sep-model)
-  - Multimodal Human Detection Model (PGSS 2024), [Hide & Seek (Published in PGSS Journal Vol 39](https://www.cmu.edu/mcs/pgss/the-journal-of-pgss.html)
+  - Multimodal Human Detection Model (PGSS 2024), [Hide & Seek (Published in PGSS Journal Vol 39)](https://www.cmu.edu/mcs/pgss/the-journal-of-pgss.html)
   - Wearable Assistive Devices:
     - 2025-25 Science Fair Project, [ODIE](https://github.com/li-pearl/odie)
     - 2023-24 Science Fair Project, [DORY](https://github.com/li-pearl/dory)
