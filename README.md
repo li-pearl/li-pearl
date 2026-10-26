@@ -1,6 +1,8 @@
 # Hi there, I'm Anshi ✈️
 ## I'm a Caltech MechE/EE s'more who likes building stuff that flies
 
+γβδγ
+
 🔭 Current projects:
   - Reducing blade-wake interaction noise from upstream propeller shroud geometries on M4 Phoenix (Caltech SURF Summer 2026, Gharib Research Group, CAST)
   - RC "Swoose Goose"
