@@ -1,5 +1,5 @@
 # Hi there, I'm Anshi 👋
-## I'm a Caltech Mech E (or EE idk) S'more who likes building smart stuff that flies
+## I'm a Caltech Mech E (or EE idk) S'more who likes building stuff that flies
 
 🔭 Current projects:
   - Reducing blade-wake interaction noise from upstream propeller shroud geometries on M4 Phoenix (Caltech SURF Summer 2026, Gharib Research Group, CAST)
